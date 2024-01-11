@@ -82,4 +82,22 @@ Ejecutar:
 3. Ejecutar ```ping 1.1.1.1```
 4. Ejecutar ```exit```
 5. Ejecutar ```docker run -ti ubuntu bash```
-   - ¿esta presente el binario ping? 
+   - ¿esta presente el binario ping?
+6. Ejecutar ```docker ps -a```
+   - ¿cuantos contenedores hay creados y finalizados?
+
+## Crear una nueva imagen
+
+A partir de un contenedor finalizado es posible crear una nueva imagen:
+
+1. Ejecutar ```docker run -ti ubuntu bash```
+2. Ejecutar ```apt get update && apt install inetutils-ping```
+3. Ejecutar ```ping 1.1.1.1```
+4. Ejecutar ```exit```
+5. Ejecutar ```docker ps -a```y anotar el id o el nombre del contenedor recientemente finalizado
+6. Ejecutar ```docker commit $id local:ubuntu_ping```
+7. Ejecutar ```docker images```
+8. Ejecutar ```docker run -d local:ubuntu_ping ping 1.1.1.1``` y anotar el id o el nombre del container
+9. Ejecutar ```docker exec -ti $id bash```
+10. Ejecutar ```top```o ```ps -aux```
+
