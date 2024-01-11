@@ -25,3 +25,22 @@
 - **Herramientas y Ecosistemas**
   - VMs: Utilizan herramientas de virtualización como VMware, VirtualBox y Hyper-V.
   - Contenedores: Ampliamente apoyados por herramientas como Docker y Kubernetes en un ecosistema en constante crecimiento.
+
+
+## Breve historia de Docker
+
+- **Orígenes de Docker**
+  - Docker fue lanzado inicialmente en marzo de 2013.
+  - Desarrollado por Solomon Hykes durante su tiempo en dotCloud, una compañía de PaaS (plataforma como servicio).
+
+- **Evolución y Crecimiento**
+  - Docker ganó rápidamente popularidad en la comunidad de desarrollo debido a su enfoque en la portabilidad y eficiencia.
+  - Transformó el panorama de la virtualización y el despliegue de aplicaciones.
+
+- **Impacto en la Industria**
+  - Docker ha jugado un papel clave en el movimiento hacia la arquitectura de microservicios.
+  - Su tecnología ha impulsado la tendencia de contenedores y ha influenciado el desarrollo de tecnologías como Kubernetes.
+
+- **Video Introducción a Docker**
+  - Para una presentación visual sobre el inicio de Docker, puedes ver el video en YouTube: [Introduction to Docker](https://www.youtube.com/watch?v=Q5POuMHxW-0).
+
