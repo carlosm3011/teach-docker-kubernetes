@@ -10,7 +10,7 @@
 ### Requisitos del sistema.
 - Instalación en diferentes sistemas operativos (Windows, MacOS, Linux).
 - Verificación de la instalación.
-. Primeros Pasos con Docker
+- Primeros Pasos con Docker
 
 ### Uso de Docker CLI (Interfaz de Línea de Comandos).
 - Ejecución de un contenedor Hello World.
