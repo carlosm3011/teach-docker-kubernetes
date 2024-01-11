@@ -6,15 +6,15 @@ Docker y Docker Compose son escenciales en el ámbito de desarrollo y operacione
 
 El taller cubre desde los fundamentos de Docker y contenedores hasta la creación y gestión de imágenes y contenedores personalizados. Se introduce Docker Compose con enfoque en la creación de entornos multi-servicio. Los participantes aprenderán a través de ejemplos prácticos, como desplegar una aplicación web con servicios asociados. Este conocimiento es crucial para desarrolladores y administradores de sistemas que buscan eficiencia y escalabilidad en sus proyectos, garantizando así una entrega de software más rápida y confiable.
 
-## Conceptos Básicos de Contenedores y Docker
+## Conceptos Básicos de Contenedores y Docker (00-intro)
 
 ### ¿Qué es un contenedor?
 - Diferencias entre contenedores y máquinas virtuales.
 - Breve historia y evolución de Docker.
 - Instalación y Configuración de Docker
 
-### Requisitos del sistema.
+### Primeros pasos con Docker
 - Instalación en diferentes sistemas operativos (Windows, MacOS, Linux).
 - Verificación de la instalación.
-- Primeros Pasos con Docker
+- Primeros pasos
 
